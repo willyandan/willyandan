@@ -8,6 +8,7 @@
 
 - 🌱 I’m currently learning [Reason](https://reasonml.github.io/)  
 - 🤓 AI enthusiast    
+- 😄 Pronouns: He/Ele
 
 <br/>  
 
