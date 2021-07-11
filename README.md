@@ -6,7 +6,7 @@
 ### <div align="center">I'm Willyan, a software development consultor working at ThoughtWorks</div>  
   
 
-- 🌱 I’m currently learning [Reason](https://reasonml.github.io/)  
+- 🌱 I’m currently learning Ocaml
 - 🤓 AI enthusiast    
 - 😄 Pronouns: He/Ele
 
