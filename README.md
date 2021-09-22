@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Willyan, a software development consultor working at ThoughtWorks</div>  
+### <div align="center">I'm Willyan, a software development consultor working at Westpoint</div>  
   
 
 - 🌱 I’m currently learning Ocaml
